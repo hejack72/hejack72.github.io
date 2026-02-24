@@ -1,0 +1,17 @@
+.joli {
+  /* Mieux vaut centrer le texte dans un
+     cercle. */
+  text-align: center;¸
+
+  /* La bordure marquera le cercle. On
+     pourrait également utiliser un arrière-
+     plan car celui-ci aurait été contenu
+     par border-radius */
+  border: 0.25em solid black;
+
+  /* Assurons-nous que la boîte soit carrée
+     pour obtenir un cercle bien rond plutôt
+     qu'une ellipse ;) */
+  width: 30em;
+  height: 5em;
+}
