@@ -1,7 +1,7 @@
 .joli {
   /* Mieux vaut centrer le texte dans un
      cercle. */
-  text-align: center;¸
+  text-align: center;
 
   /* La bordure marquera le cercle. On
      pourrait également utiliser un arrière-
@@ -14,4 +14,5 @@
      qu'une ellipse ;) */
   width: 30em;
   height: 5em;
+
 }
