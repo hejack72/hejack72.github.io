@@ -1,3 +1,4 @@
+/*source:https:*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -14,29 +15,35 @@ ul li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 16px;
   text-decoration: none;
 }
 
 ul li a:hover {
   background-color: #111111;
 }
-.navig {
+.navig{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #e1e1e1;
-  width: 150px;
+  width: 200px;
+  background-color: #f1f1f1;
 }
 
-.navig li a {
+.navig a {
   display: block;
   color: black;
   padding: 16px 16px;
   text-decoration: none;
 }
 
-.navig li a:hover {
-  background-color: #111111;
-  color: #ffffff;
+/* Change the link and background color on hover */
+.navig a:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.navig li a.active {
+  background-color: #555555;
+  color: white;
 }
