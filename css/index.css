@@ -1,0 +1,42 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+.navig {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #e1e1e1;
+  width: 150px;
+}
+
+.navig li a {
+  display: block;
+  color: black;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+.navig li a:hover {
+  background-color: #111111;
+  color: #ffffff;
+}
