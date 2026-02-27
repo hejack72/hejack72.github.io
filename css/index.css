@@ -1,4 +1,4 @@
-/*source:https:*/
+/*source:https://www.w3schools.com/css/css_navbar.asp*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -43,7 +43,16 @@ ul li a:hover {
   color: white;
 }
 
-.navig li a.active {
-  background-color: #555555;
-  color: white;
+li a.active {
+  background-color: #c1c1c1;
+  color: black;
+}
+
+li a:hover.active {
+  background-color: #c1c1c1;
+  color: black;
+}
+
+body {
+	font-family: 'Brush Script MT', cursive;
 }
