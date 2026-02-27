@@ -56,3 +56,7 @@ li a:hover.active {
 body {
 	font-family: 'Brush Script MT', cursive;
 }
+
+body {
+	margin: 20px;
+}
