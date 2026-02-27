@@ -1,6 +1,7 @@
 .joli {
   /* Mieux vaut centrer le texte dans un
      cercle. */
+  padding: 0.5em 0.25em 2em 0.25em;
   text-align: center;
 
   /* La bordure marquera le cercle. On
