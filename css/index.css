@@ -28,6 +28,7 @@ ul li a:hover {
   padding: 0;
   width: 200px;
   background-color: #f1f1f1;
+  text-align: center;
 }
 
 .navig a {
