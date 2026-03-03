@@ -1,10 +1,11 @@
 /*source:https://www.w3schools.com/css/css_navbar.asp*/
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+	list-style-type: none;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
 }
 
 ul li {
