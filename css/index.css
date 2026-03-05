@@ -33,14 +33,15 @@ ul li a:hover {
 
 .navig a {
   display: block;
-  color: black;
+  color: white;
   padding: 16px 16px;
   text-decoration: none;
+  background-color: 555555;
 }
 
 /* Change the link and background color on hover */
 .navig a:hover {
-  background-color: #555555;
+  background-color: #888888;
   color: white;
 }
 
@@ -55,7 +56,7 @@ li a:hover.active {
 }
 
 body {
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Brush Script MT';
 	margin: 20px;
 	text-align: center;
 }
